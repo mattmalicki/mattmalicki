@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattmalicki
 - 👀 I’m interested in programming, astronomy, hiking, photography.
-- 🌱 I’m currently learning JS with React and Node. Also norwegian.
+- 🌱 I’m currently learning TS and React Native. Also norwegian.
 - 💞️ I’m looking to collaborate on anything that will challange my skills.
 - 📫 How to reach me ... just linkedIn.
 
